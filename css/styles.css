@@ -1,0 +1,95 @@
+.right-50{
+    margin-right: 50px;
+}
+
+.font-family{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.weight-600{
+    font-weight: 600;
+}
+
+.bg-salmon{
+    background-color: salmon;
+}
+
+.header{
+    background-color: #ED4866;
+    padding: 30px;
+}
+
+.image-dog{
+    margin-top: 5rem;
+    transform: rotate(20deg);
+    position: relative;
+    width: 60%;
+}
+
+.title{
+    font-size: 3.5rem;
+    text-align: left;
+    margin-top: 5rem;
+}
+
+.btn-header{
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.top-20{
+    margin-top: 20px;
+}
+
+.bottom-50{
+    margin-bottom: 50px;
+}
+
+.color-salmon{
+    color: salmon;
+}
+
+.color-white{
+    color: white;
+}
+
+.testimonial-text{
+    font-size: 3rem;
+    font-weight: 300;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 100px;
+}
+
+.testimonial-image{
+    border-radius: 100%;
+    width: 5%;
+    margin-top: 30px;
+}
+
+.press{
+    margin-top: 3rem;
+    padding: 30px;
+}
+
+.padding-40{
+    padding: 40px;
+}
+
+.contain{
+    padding: 150px;
+}
+
+.text-pricing{
+    font-size: 1.5rem;
+    margin-bottom: 80px;
+}
+
+.call-to-action{
+    font-size: 3rem;
+    max-width: 800px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
